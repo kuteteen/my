@@ -1,0 +1,1 @@
+<span style='background-image: url(http://home.vinaget.us/images/min.gif); text-shadow: 0 0 0.4em #F0F8FF, 0 0 0.3em #008B8B, 0 0 0.4em #008B8B, 0 0 0.4em #008B8B, 0 0 0.3em #F0F8FF; color: #FFFFFF; '><font color='red'> We Are Happy To Serve You </font></span><br><span style="FONT-FAMILY: Arial; FONT-SIZE: 15px; color:white"></SPAN>
